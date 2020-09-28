@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DogRaceNew.HomeForm" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HgQAIAAUUDAgJAAIAQiAFAACAAAAACAAAiIAAACAQAA=</HashCode>
+      <FileName>HomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.Program" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BetGame2.Properties.Resources" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAJAgAABELQAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.Properties.Settings" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.RaceEngine.AI" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RaceEngine\AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.RaceEngine.Bet" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RaceEngine\Bet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.RaceEngine.Bob" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RaceEngine\Bob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.RaceEngine.Dog" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAABQAAAAAAAAA=</HashCode>
+      <FileName>RaceEngine\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.RaceEngine.Factory" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RaceEngine\Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.RaceEngine.Joe" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RaceEngine\Joe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogRaceNew.RaceEngine.Punter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAIgAACAAAACAAAQAAAAEAAAAAAAAABAAAAA=</HashCode>
+      <FileName>RaceEngine\Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
